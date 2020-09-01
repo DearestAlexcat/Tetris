@@ -1,0 +1,31 @@
+D:\!\4\C#\Tetris — копия\Tet\bin\Release\Tet.exe.config
+D:\!\4\C#\Tetris — копия\Tet\bin\Release\Tet.exe
+D:\!\4\C#\Tetris — копия\Tet\bin\Release\Tet.pdb
+D:\!\4\C#\Tetris — копия\Tet\obj\Release\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\C#\Tetris — копия\Tet\obj\Release\Tet.Form1.resources
+D:\!\4\C#\Tetris — копия\Tet\obj\Release\Tet.Properties.Resources.resources
+D:\!\4\C#\Tetris — копия\Tet\obj\Release\Tet.csproj.GenerateResource.Cache
+D:\!\4\C#\Tetris — копия\Tet\obj\Release\Tet.exe
+D:\!\4\C#\Tetris — копия\Tet\obj\Release\Tet.pdb
+D:\!\4\C#\Tetris+Style\Tet\bin\Release\Tet.exe.config
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.exe
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.pdb
+D:\!\4\C#\Tetris+Style\Tet\bin\Release\Tet.exe
+D:\!\4\C#\Tetris+Style\Tet\bin\Release\Tet.pdb
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.Form1.resources
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.GameOver.resources
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.Properties.Resources.resources
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.csproj.GenerateResource.Cache
+D:\!\4\C#\Tetris+Style\Tet\obj\Release\Tet.Help.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\bin\Release\Tet.exe.config
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.exe
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.pdb
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\bin\Release\Tet.exe
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\bin\Release\Tet.pdb
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.Form1.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.GameOver.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.Help.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.Properties.Resources.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Release\Tet.csproj.GenerateResource.Cache

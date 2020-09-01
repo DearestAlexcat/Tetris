@@ -1,0 +1,53 @@
+c:\users\саша\documents\visual studio 2015\Projects\Tet\Tet\bin\Debug\Tet.exe.config
+D:\!\4\C#\Tetris\Tet\bin\Debug\Tet.exe.config
+D:\!\4\C#\Tetris\Tet\bin\Debug\Tet.exe
+D:\!\4\C#\Tetris\Tet\bin\Debug\Tet.pdb
+D:\!\4\C#\Tetris\Tet\obj\Debug\Tet.Properties.Resources.resources
+D:\!\4\C#\Tetris\Tet\obj\Debug\Tet.csproj.GenerateResource.Cache
+D:\!\4\C#\Tetris\Tet\obj\Debug\Tet.exe
+D:\!\4\C#\Tetris\Tet\obj\Debug\Tet.pdb
+D:\!\4\C#\Tetris\Tet\obj\Debug\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\C#\Tetris\Tet\obj\Debug\Tet.Form1.resources
+D:\!\4\C#\Tetris — копия\Tet\bin\Debug\Tet.exe.config
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.exe
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.pdb
+D:\!\4\C#\Tetris — копия\Tet\bin\Debug\Tet.exe
+D:\!\4\C#\Tetris — копия\Tet\bin\Debug\Tet.pdb
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.Form1.resources
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.Properties.Resources.resources
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.csproj.GenerateResource.Cache
+D:\!\4\C#\Tetris — копия\Tet\obj\Debug\Tet.GameOver.resources
+D:\!\4\C#\Tetris+Style\Tet\bin\Debug\Tet.exe.config
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.exe
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.pdb
+D:\!\4\C#\Tetris+Style\Tet\bin\Debug\Tet.exe
+D:\!\4\C#\Tetris+Style\Tet\bin\Debug\Tet.pdb
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.Form1.resources
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.GameOver.resources
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.Properties.Resources.resources
+D:\!\4\C#\Tetris+Style\Tet\obj\Debug\Tet.csproj.GenerateResource.Cache
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\bin\Debug\Tet.exe.config
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.exe
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.pdb
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\bin\Debug\Tet.exe
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\bin\Debug\Tet.pdb
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.csprojResolveAssemblyReference.cache
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.Form1.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.GameOver.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.Help.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.Properties.Resources.resources
+D:\!\4\Портфолио\C#\Tetris & Style\Tet\obj\Debug\Tet.csproj.GenerateResource.Cache
+D:\UnityProjects\Tetris\Tet\bin\Debug\Tet.exe.config
+D:\UnityProjects\Tetris\Tet\bin\Debug\Tet.exe
+D:\UnityProjects\Tetris\Tet\bin\Debug\Tet.pdb
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.csprojAssemblyReference.cache
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.Form1.resources
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.GameOver.resources
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.Help.resources
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.Properties.Resources.resources
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.csproj.GenerateResource.cache
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.csproj.CoreCompileInputs.cache
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.exe
+D:\UnityProjects\Tetris\Tet\obj\Debug\Tet.pdb
